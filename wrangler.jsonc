@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "stoppo",
+  "name": "game-stoppo",
   "compatibility_date": "2026-08-01",
 
   // Assets-only Worker: no `main`, so Cloudflare serves the built game straight
